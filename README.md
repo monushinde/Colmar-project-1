@@ -1,19 +1,32 @@
-This project was completed as part of Codecademy's Build a Website with HTML, CSS, and Github Pages Path. This was the learn how to build websites capstone project, in which we applied everything we had learned to build a responsive site from scratch. We were required to create a landing page for a new school, Colmar Academy. We were provided with wireframes and video and images resources, and instructed to make all remaining design decisions to complete the site. Responsive design techniques and media queries were utilized to create desktop and mobile versions of the web page.
+Colmar Academy Landing Page
+
+This project is the capstone project for Codecademy's Build a Website with HTML, CSS, and Github Pages Path. The goal of this project was to create a responsive landing page for a fictional school, Colmar Academy, using HTML and CSS.
 
 Getting Started
-To get started with the project, please ensure you have access to the wireframes provided. You can find here (https://content.codecademy.com/courses/freelance-1/capstone-2/colmar-academy-spec.png)
+To view the website, simply visit the following link:
 
-Implementation
-You will need to implement the website layout based on the wireframes using HTML, CSS. Here's a breakdown of the tasks involved:
+Colmar Academy Landing Page
 
-Wireframe Analysis: Study the wireframes provided to understand the layout and flow of the website.
-HTML Structure: Create the HTML structure of the website based on the wireframes, ensuring proper semantics and accessibility.
-CSS Styling: Apply CSS styling to the HTML structure to achieve the desired visual design. Make design decisions regarding colors, typography, spacing, etc.
-Technologies
-This project was created with:
+Project Overview
+This project involved implementing a website layout based on wireframes provided by Codecademy. The tasks included wireframe analysis, HTML structure creation, and CSS styling. Responsive design techniques and media queries were utilized to ensure the website's compatibility with both desktop and mobile devices.
 
+Wireframes
+The wireframes provided by Codecademy served as a guide for the layout and flow of the website. You can access the wireframes here.
+
+Technologies Used
 HTML
 CSS
+GitHub Pages
+Contributing
+If you would like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+Codecademy for providing the project specifications and resources.
+ for creating and maintaining this repository.
+Make sure to replace  with your name or organization name if applicable. Additionally, if you have any additional acknowledgments or contributors, you can add them to the list.
 GitHub Page URL Link# Colmar-project-1
 
 https://monushinde.github.io/ColmerAcademy/
